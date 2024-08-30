@@ -10,7 +10,7 @@ This template serves as a design boilerplate for quickly bringing new ideas to l
 
 GitHub workflow setup is already included in this template, providing instant deployment right out of the box. You only need to [change base url in vite config file](./README.md#deploying-on-github-pages). Whether you're starting a new project or iterating on an existing one, this template is designed to help you move fast and efficiently.
 
-## Contact Me
+## Get in touch!
 
 Have questions, suggestions, or need custom components? Feel free to reach out! I'm always open to feedback and collaboration.
 

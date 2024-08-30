@@ -1,6 +1,6 @@
 # Dashboard Vite Vue Tailwind
 
-## Getting Started
+## Getting Started!
 
 Welcome to the template! This guide will help you get started quickly and make the most out of this setup. [Go to About page](./ABOUT.md) for more details about this template.
 

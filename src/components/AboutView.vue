@@ -40,11 +40,10 @@ import ContactItemList from './contact/ContactItemList.vue';
             fast and efficiently.
         </Paragraph>
 
-        <Head2>Contact Me</Head2>
+        <Head2>Get in touch!</Head2>
         <Paragraph>
             Have questions, suggestions, or need custom components? Feel free to reach out! I'm always open to feedback
-            and
-            collaboration.
+            and collaboration.
         </Paragraph>
 
         <ContactItemList />
