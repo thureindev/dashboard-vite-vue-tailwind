@@ -1,5 +1,5 @@
 <template>
-    <div class="code-block p-4 rounded text-teal-400">
+    <div class="code-block my-4 p-4 rounded text-teal-400">
         <div class="flex items-center justify-between mb-4">
             <p class="text-yellow-500">
                 <strong>

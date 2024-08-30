@@ -33,8 +33,9 @@ import ContactItemList from './contact/ContactItemList.vue';
             works well with Vue's Single File Components if you know how to keep it clean.
         </Paragraph>
         <Paragraph>
-            GitHub workflow setup is also included, providing instant deployment right out of the box. You just need to
-            <InternalAnchor path="/#update-vite-config">change base url in vite config file</InternalAnchor>. Whether
+            GitHub workflow setup is already included in this template, providing instant deployment right out of the
+            box. You only need to
+            <InternalAnchor path="/#deploying-on-github">change base url in vite config file</InternalAnchor>. Whether
             you're starting a new project or iterating on an existing one, this template is designed to help you move
             fast and efficiently.
         </Paragraph>
