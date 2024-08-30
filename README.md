@@ -30,7 +30,7 @@ git push -u origin main
 
 - Update the `base` URL in `vite.config.js` to match your github repository name.
 
-_`vite.config.js`_
+#### vite.config.js
 
 ```javascript
 export default defineConfig({
