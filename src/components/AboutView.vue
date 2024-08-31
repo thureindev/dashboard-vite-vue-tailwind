@@ -25,6 +25,14 @@ import ContactItemList from './contact/ContactItemList.vue';
             I hope this template helps you do the same!
         </Paragraph>
 
+        <Paragraph>
+            Check out my 
+            <Anchor url="https://thureindev.github.io/ready-css" newtab>
+                Ready CSS Components
+            </Anchor>
+            for ready-to-use CSS.
+        </Paragraph>
+
         <Head2>About This Template</Head2>
         <Paragraph>
             This template serves as a design boilerplate for quickly bringing new ideas to life. It comes pre-configured
