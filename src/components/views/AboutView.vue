@@ -1,12 +1,12 @@
 <script setup>
-import HeadBanner from './customized/HeadBanner.vue';
-import Head1 from './customized/Head1.vue';
-import Head2 from './customized/Head2.vue';
-import Anchor from './customized/Anchor.vue';
-import InternalAnchor from './customized/InternalAnchor.vue';
-import Paragraph from './customized/Paragraph.vue';
-import DivCentered from './customized/DivCentered.vue';
-import ContactItemList from './contact/ContactItemList.vue';
+import HeadBanner from '../customized/HeadBanner.vue';
+import Head1 from '../customized/Head1.vue';
+import Head2 from '../customized/Head2.vue';
+import Anchor from '../customized/Anchor.vue';
+import InternalAnchor from '../customized/InternalAnchor.vue';
+import Paragraph from '../customized/Paragraph.vue';
+import DivCentered from '../customized/DivCentered.vue';
+import ContactItemList from '../contact/ContactItemList.vue';
 </script>
 
 <template>

@@ -2,9 +2,9 @@ import { createMemoryHistory, createRouter } from 'vue-router'
 
 // -------- ------------- ---------- ---------------
 // import your custom views
-import HomeView from './components/HomeView.vue';
-import ContentView from './components/ContentView.vue';
-import AboutView from './components/AboutView.vue';
+import HomeView from './components/views/HomeView.vue';
+import ContentView from './components/views/ContentView.vue';
+import AboutView from './components/views/AboutView.vue';
 
 // add your routes
 const navRoutes = [

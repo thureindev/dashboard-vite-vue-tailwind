@@ -1,16 +1,16 @@
 <script setup>
 import { RouterLink } from 'vue-router';
-import HeadBanner from './customized/HeadBanner.vue';
-import Head1 from './customized/Head1.vue';
-import Head2 from './customized/Head2.vue';
-import Anchor from './customized/Anchor.vue';
-import InternalAnchor from './customized/InternalAnchor.vue';
-import Paragraph from './customized/Paragraph.vue';
-import ParagraphEm from './customized/ParagraphEm.vue';
-import OrderedList from './customized/OrderedList.vue';
-import DivCentered from './customized/DivCentered.vue';
-import CodeBlock from './customized/CodeBlock.vue';
-import CodeInText from './customized/CodeInText.vue';
+import HeadBanner from '../customized/HeadBanner.vue';
+import Head1 from '../customized/Head1.vue';
+import Head2 from '../customized/Head2.vue';
+import Anchor from '../customized/Anchor.vue';
+import InternalAnchor from '../customized/InternalAnchor.vue';
+import Paragraph from '../customized/Paragraph.vue';
+import ParagraphEm from '../customized/ParagraphEm.vue';
+import OrderedList from '../customized/OrderedList.vue';
+import DivCentered from '../customized/DivCentered.vue';
+import CodeBlock from '../customized/CodeBlock.vue';
+import CodeInText from '../customized/CodeInText.vue';
 
 const gitFilename = 'bash';
 const gitCode = `git remote remove origin
